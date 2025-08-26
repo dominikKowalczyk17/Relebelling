@@ -8,7 +8,7 @@ każda z nieznanego i najprawdopodobniej innego rozkladu.
 Wiemy natomiast, ze część wartości jest przypisana do nieswojego poziomu. 
 ### Celem jest znalezienie metody, która jak najmniejszą ilością przeetykietowań osiągnie przynajmniej p% wzrostu między medianami z poziomu na poziom. 
 ```
-Np. Jeśli p=10, to chcemy, żeby mediana poziomu C była przynajmniej 10% większa niż mediana poziomu B,
-a ta 10% większa niż mediana poziomu A
+Np. Jeśli p=10, to chcemy, żeby mediana poziomu C była przynajmniej 10% większa
+niż mediana poziomu B, a ta 10% większa niż mediana poziomu A
 
 ```
